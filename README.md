@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CSGOHK416
-- 👀 I’m interested in CSGO
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me 2260593149@qq.comcom
 
 <!---
